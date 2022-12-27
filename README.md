@@ -20,7 +20,7 @@ Temukan harta karun Kakek Milo yang berada pada salah satu spot random yang ada 
 
 
 ## Other Information(report)
-
+Click [here](shorturl.at/lyU36) to go to our Report Text. 
 
 
 
