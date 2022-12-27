@@ -9,7 +9,7 @@ Finding PCU’s Treasure merupakan sebuah permainan desktop dengan lokasi pengga
 Temukan harta karun Kakek Milo yang berada pada salah satu spot random yang ada di Universitas Kristen Petra.
 
 
-## Teaser
+## Teaser Video
 [![Watch the video](https://img.youtube.com/vi/9brgHDgB9tY/hqdefault.jpg)](https://youtu.be/9brgHDgB9tY)
 <br>
 <pre>Click the image above to watch the teaser!</pre>
