@@ -16,8 +16,9 @@ Temukan harta karun Kakek Milo yang berada pada salah satu spot random yang ada 
 
 
 ## Teaser
-Click the image below to watch the teaser!
+<p align="center">Click the image above to watch the teaser!</p>
 [![Watch the video](https://img.youtube.com/vi/9brgHDgB9tY/hqdefault.jpg)](https://youtu.be/9brgHDgB9tY)
+
 
 
 ## Other Information(report)
